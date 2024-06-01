@@ -1,4 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+![image](https://github.com/arcnrick/lab-natty-or-not/assets/29496666/0fced18b-c348-4b5d-a0c7-e688ac6407fe)
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
